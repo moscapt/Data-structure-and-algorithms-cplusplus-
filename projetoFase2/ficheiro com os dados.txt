@@ -1,0 +1,56 @@
+Projeto: 1
+Titulo: Viver melhor
+Instituicao proponente: Casa da saude
+Financiamento solicitado: 821.6 EUR
+Classificacao Final: 5
+Subsido a atribuir: 821.6 EUR (100%)
+-----------------------------------
+
+Projeto: 7
+Titulo: Qrwq
+Instituicao proponente: Qwd
+Financiamento solicitado: 54 EUR
+Classificacao Final: 4
+Subsido a atribuir: 40.5 EUR (75%)
+-----------------------------------
+
+Projeto: 2
+Titulo: O futuro agora
+Instituicao proponente: Clube de tecnologia
+Financiamento solicitado: 1421.6 EUR
+Classificacao Final: 3
+Subsido a atribuir: 426.48 EUR (30%)
+-----------------------------------
+
+Projeto: 4
+Titulo: Viver melhor
+Instituicao proponente: Casa da saude
+Financiamento solicitado: 821.6 EUR
+Classificacao Final: 3
+Subsido a atribuir: 246.48 EUR (30%)
+-----------------------------------
+
+Projeto: 5
+Titulo: O futuro agora
+Instituicao proponente: Clube de tecnologia
+Financiamento solicitado: 1421.6 EUR
+Classificacao Final: 3
+Subsido a atribuir: 426.48 EUR (30%)
+-----------------------------------
+
+Projeto: 6
+Titulo: Descobrindo o passado
+Instituicao proponente: Instituto de historia
+Financiamento solicitado: 1911.85 EUR
+Classificacao Final: 2.91667
+Subsido a atribuir: 0 EUR (Rejeitado)
+-----------------------------------
+
+Projeto: 3
+Titulo: Descobrindo o passado
+Instituicao proponente: Instituto de historia
+Financiamento solicitado: 1911.85 EUR
+Classificacao Final: 1
+Subsido a atribuir: 0 EUR (Rejeitado)
+-----------------------------------
+

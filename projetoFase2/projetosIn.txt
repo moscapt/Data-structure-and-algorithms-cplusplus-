@@ -1,0 +1,45 @@
+Viver melhor
+Casa da saude
+Joao Antunes
+12
+Anatomia
+Fisioterapia
+Farmacia
+Nutricao
+Dietetica
+250.30
+150.10
+50.20
+15.50
+55.10
+300.40
+O futuro agora
+Clube de tecnologia
+Maria Silva
+24
+Informacao
+Comunicacao
+Evolucao
+Escalabilidade
+Producao
+500.10
+200.20
+350.50
+130.25
+190.45
+50.10
+Descobrindo o passado
+Instituto de historia
+Jose Carlos
+38
+Arqueologia
+Arte
+Sociologia
+Cronologia
+Heraldica
+110.10
+500.30
+560.70
+700.40
+30.15
+10.20
